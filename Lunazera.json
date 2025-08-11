@@ -1,0 +1,15 @@
+{
+  "ThemeName": "Lunazera",
+  "Component": "#18081a",
+  "Panel": "#1d1d27",
+  "Text": "#ebebeb",
+  "Icon": "#F38BC7",
+  "Borders": "#A9C6F0",
+  "PanelComponent": "#080816",
+  "PanelComponentText": "#ebebeb",
+  "Button": "#423663",
+  "ButtonText": "#ebebeb",
+  "InnerBorder": "#4f5c70",
+  "Workspace": "#080816",
+  "CameraBackground": "#080816"
+}
